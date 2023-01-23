@@ -1,2 +1,2 @@
 # Tumor-Prediction-FCIS
-The project is to classify whether the patient has a malignant tumor or not, the project was built using 7 classification algorithms with the highest accuracy of 100%. Language: python.
+Predictive modeling project that was built using python, the input for the project was 30 numerical features and one label(whether has a tumor or not), the project had 7 algorithms implemented each one trains on the data to give a prediction on the test data(unknown to the model), the average accuracy was 98% and the highest accuracy was a decision tree model with 100% accuracy.
